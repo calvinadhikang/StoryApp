@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="to_login">To Login</string>
+    <string name="to_register">To Register</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_post">Post</string>
+    <string name="detail_story">Detail Story</string>
+    <string name="post_story">Post Story</string>
+    <string name="chooser">Choose a Picture</string>
+    <string name="desc_hint">Write some description</string>
+    <string name="success_post">Posted successfully</string>
+    <string name="post">Post</string>
+    <string name="user_profile">User Profile</string>
+    <string name="logout">Logout</string>
+    <string name="title_profile">Profile</string>
+    <string name="from_gallery">From Gallery</string>
+    <string name="from_camera">From Camera</string>
+</resources>

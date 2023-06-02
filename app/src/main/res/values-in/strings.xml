@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="login">Masuk</string>
+    <string name="email">Email</string>
+    <string name="register">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="to_login">Pergi Masuk</string>
+    <string name="to_register">Pergi Daftar</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_post">Tempatkan</string>
+    <string name="detail_story">Detail Cerita</string>
+    <string name="post_story">Tambah Cerita</string>
+    <string name="chooser">Pilih sebuah gambar</string>
+    <string name="desc_hint">Tambahkan deskripsi</string>
+    <string name="success_post">Berhasil menempatkan</string>
+    <string name="post">Tempatkan</string>
+    <string name="user_profile">Profil Pengguna</string>
+    <string name="logout">Keluar</string>
+    <string name="title_profile">Profil</string>
+    <string name="from_gallery">Dari Galeri</string>
+    <string name="from_camera">Dari Kamera</string>
+</resources>
